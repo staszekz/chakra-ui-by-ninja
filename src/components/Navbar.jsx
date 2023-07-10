@@ -10,7 +10,7 @@ export default function Navbar() {
     
     </Flex> */
 
-    <Flex as="nav" alignItems="center" >
+    <Flex as="nav" alignItems="center" mb="40px" p="10px">
       <Heading as="h1"> Dojo Tasks</Heading>
       <Spacer />
       <HStack spacing="20px">
