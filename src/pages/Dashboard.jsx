@@ -13,7 +13,7 @@ export default function Dashboard() {
     ':hover': {
       color: 'black',
       bg: 'blue.200',
-    filter: "none",
+      filter: "none",
 
     }
   };
